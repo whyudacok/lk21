@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseURL = "https://149.56.198.206";
+const baseURL = "https://layarkaca21.nexus";
 
 const api = axios.create({
   baseURL,
